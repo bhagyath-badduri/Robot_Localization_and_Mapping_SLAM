@@ -72,3 +72,16 @@ The project is organized into **three Python notebooks**, but **only the final n
 1. Open **Notebook 3** in Jupyter:
    ```bash
    jupyter notebook
+
+
+
+---
+
+
+```md
+---
+
+## Author
+
+**Bhagyath Badduri**  
+Master’s Student – Robotics  
