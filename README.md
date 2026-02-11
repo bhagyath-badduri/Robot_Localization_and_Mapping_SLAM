@@ -30,7 +30,7 @@ Below is an example of a **2D robot world** with:
 
 > This example corresponds to a **50×50 grid world**, but multiple map configurations can be generated.
 
-![SLAM Example Output](images/slam_example.png)
+![SLAM Example Output](Robot_world.png)
 
 > 📌 **Note:**  
 > Make sure the image file is placed at  
