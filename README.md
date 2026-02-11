@@ -32,11 +32,6 @@ Below is an example of a **2D robot world** with:
 
 ![SLAM Example Output](Robot_world.png)
 
-> 📌 **Note:**  
-> Make sure the image file is placed at  
-> `images/slam_example.png`  
-> (or update the path above to match your repository structure).
-
 ---
 
 ## Project Structure
@@ -51,7 +46,7 @@ The project is organized into **three Python notebooks**, but **only the final n
 - **Notebook 2 – Omega and Xi Constraints**  
   Implements SLAM constraints using information matrices.
 
-- **Notebook 3 – Landmark Detection and Tracking** ✅ *(Graded)*  
+- **Notebook 3 – Landmark Detection and Tracking** 
   Full SLAM implementation combining motion and sensor constraints.
 
 ### Graded Files
